@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaelcontento/redux-storage-decorator-filter.git"
+    "url": "https://github.com/guns2410/redux-storage-decorator-filter.git"
   },
-  "homepage": "https://github.com/michaelcontento/redux-storage-decorator-filter",
+  "homepage": "https://github.com/guns2410/redux-storage-decorator-filter",
   "keywords": [
     "redux",
     "redux-storage",
     "redux-storage-decorator"
   ],
-  "author": "Michael Contento <michaelcontento@gmail.com>",
+  "author": "Guns <gunjan.soni2002@gmail.com>",
   "files": [
     "build/",
     "src",

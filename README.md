@@ -12,12 +12,6 @@
 Filter decorator for [redux-storage][] to only store a subset of the whole
 state tree.
 
-# A fork of [michaelcontento/redux-storage-decorator-filter](https://github.com/michaelcontento/redux-storage-decorator-filter)
-
-The original author of the package [redux-storage-decorator-filter](https://github.com/michaelcontento/redux-storage-decorator-filter) has decided to deprecate the project and no longer maintain. The package will now be maintained here.
-
-Thank you michaelcontento for a great library!
-
 ## Installation
 
     npm install --save redux-storage-decorator-filter
@@ -40,11 +34,17 @@ engine = filter(engine, [
 ]);
 ```
 
+# A fork of [redux-storage-decorator-filter](https://github.com/michaelcontento/redux-storage-decorator-filter)
+
+The original author of the package [redux-storage-decorator-filter](https://github.com/michaelcontento/redux-storage-decorator-filter) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
+
+Thank you [michaelcontento](https://github.com/michaelcontento) for a great library!
+
 ## License
 
     The MIT License (MIT)
 
-    Copyright (c) 2015 Michael Contento
+    Copyright (c) 2015 Gunjan Soni
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the "Software"), to deal in

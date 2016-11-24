@@ -64,5 +64,5 @@ Thank you [michaelcontento](https://github.com/michaelcontento) for a great libr
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  [redux-storage]: https://github.com/guns2410/redux-storage
-  [redux-storage-decorator-filter]: https://github.com/guns2410/redux-storage-decorator-filter
+  [redux-storage]: https://github.com/react-stack/redux-storage
+  [redux-storage-decorator-filter]: https://github.com/react-stack/redux-storage-decorator-filter

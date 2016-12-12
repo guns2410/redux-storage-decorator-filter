@@ -1,13 +1,12 @@
 # [redux-storage-decorator-filter][]
 
-[![build](https://travis-ci.org/michaelcontento/redux-storage-decorator-filter.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage-decorator-filter)
-[![dependencies](https://david-dm.org/michaelcontento/redux-storage-decorator-filter.svg)](https://david-dm.org/michaelcontento/redux-storage-decorator-filter)
-[![devDependencies](https://david-dm.org/michaelcontento/redux-storage-decorator-filter/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage-decorator-filter#info=devDependencies)
+[![build](https://travis-ci.org/react-stack/redux-storage-decorator-filter.svg?branch=master)](https://travis-ci.org/react-stack/redux-storage-decorator-filter)
+[![dependencies](https://david-dm.org/react-stack/redux-storage-decorator-filter.svg)](https://david-dm.org/react-stack/redux-storage-decorator-filter)
+[![devDependencies](https://david-dm.org/react-stack/redux-storage-decorator-filter/dev-status.svg)](https://david-dm.org/react-stack/redux-storage-decorator-filter#info=devDependencies)
 
 [![license](https://img.shields.io/npm/l/redux-storage-decorator-filter.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-decorator-filter)
 [![npm version](https://img.shields.io/npm/v/redux-storage-decorator-filter.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-decorator-filter)
 [![npm downloads](https://img.shields.io/npm/dm/redux-storage-decorator-filter.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage-decorator-filter)
-[![Code Climate](https://codeclimate.com/github/michaelcontento/redux-storage-decorator-filter/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-storage-decorator-filter)
 
 Filter decorator for [redux-storage][] to only store a subset of the whole
 state tree.
